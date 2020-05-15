@@ -1,0 +1,74 @@
+html, body {
+        font-size: 8pt;
+        font-family: Courier, serif;
+        line-height: 11pt;
+        margin: 10px;
+}
+
+p {
+        font-family: Courier, serif;
+        font-size: 8pt;
+        line-height: 11pt;
+        margin: 0px;
+        padding: 0px;
+}
+
+h1 {
+        font-size: 12pt;
+        line-height: 11pt;
+        margin: 0px 0px 4pt 0px;
+        padding: 0px;
+
+}
+
+a:link {text-decoration:none;color:black;}
+a:visited {text-decoration:none;color:black;}
+a:hover {text-decoration:none;color:black;}
+a:active {text-decoration:none; color:black;}
+
+#logo {
+        font-family: Helvetica, Arial, sans-serif;
+        font-weight: bold;
+        float: left;
+        font-size: 12pt;
+        padding: 0pt 0pt 1pt 0pt;
+        border-bottom: 5px double #ae00ff;
+}
+
+#top_p1 {
+        font-family: Helvetica, Arial, sans-serif;
+        float: left;
+        width: 300px;
+        margin: 0px 0px 0px 75px;
+}
+
+#top_p1_2 {
+        font-family: Helvetica, Arial, sans-serif;
+        float: left;
+        width: 200px;
+        margin: 0px 0px 0px 40px;
+}
+
+#top_p2 {
+        font-family: Helvetica, Arial, sans-serif;
+        float: left;
+        width: 300px;
+        margin: 0px 0px 0px 10px;
+}
+
+#splash_container {
+        width: 100%;
+        position: absolute;
+        margin: 30px 0px 0px 0px;
+}
+
+/*.splash_img {
+        padding: 12px;
+        height: 200px;
+        float: left;
+}
+*/
+.splash_img img {
+        border: 0px;
+}
+
